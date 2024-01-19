@@ -1,0 +1,17 @@
+.navbar {
+    background: linear-gradient(to right, #449ab6,#C1F2B0);
+    border-bottom: 3px solid #76453B;
+    border-style: outset;
+   
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+.navbar .nav-link:hover{
+    border-bottom: 2px solid black;
+}
+
